@@ -1,0 +1,10 @@
+div {
+  min-width: 200px;
+  width: 200px;
+  border-bottom: 1px red;
+}
+
+div ul li {
+  text-decoration: none;
+  padding: 20px 5px;
+}
