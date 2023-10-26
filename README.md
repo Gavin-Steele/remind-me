@@ -35,3 +35,6 @@ When reading messages in applications like LinkedIn, instead of replying right a
 2. There is no styling applied to the extension so it looks ugly
 
 Note: The extension runs from the local folder on your computer, so if you edit or remove those files, the extension will stop working.
+
+
+**This is a personal project, used to help me learn how to solve problems with code. This extension is not listed by me on any extension marketplace.**
